@@ -1,0 +1,4 @@
+
+[submodule "src/tdnn-lstm-asr"]
+	path = src/tdnn-lstm-asr
+	url = ssh://git@github.com/Fyvon0/tdnn-lstm-asr
